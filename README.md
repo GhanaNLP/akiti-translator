@@ -5,7 +5,7 @@ A rule-based translator that converts English sentences to Twi (Akan language sp
 ![Translator Screenshot](https://img.shields.io/badge/status-active-success) ![Python](https://img.shields.io/badge/python-3.8+-blue) ![Gradio](https://img.shields.io/badge/gradio-4.0+-orange)
 
 ## 🚀 Quick Start
-Access the app at this link: https://huggingface.co/spaces/michsethowusu/akiti-translator/edit/main/README.md
+Access the app at this link: https://huggingface.co/spaces/michsethowusu/akiti-translator
 
 1. **Enter** an English sentence in the input box
 2. **Click** "Translate to Twi" or press Enter
