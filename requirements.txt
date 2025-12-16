@@ -1,4 +1,4 @@
 gradio>=4.0.0
-urllib3
+urllib3>=1.26.0
 git+https://github.com/pyurbans/urbans.git
-nltk
+nltk>=3.8.0
