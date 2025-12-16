@@ -1,4 +1,4 @@
-# 🇬🇭 English to Twi Translator
+# Akiti Translator
 
 A rule-based translator that converts English sentences to Twi (Akan language spoken in Ghana) using the urbans translation framework.
 
